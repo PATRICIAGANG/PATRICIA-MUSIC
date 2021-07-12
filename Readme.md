@@ -44,13 +44,6 @@ Get STRING_NAME from here:
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-If you donlt like to play in linked channel:
- 1. Get your channel ID.
- 2. Rename your group to: Channel Music: your_channel_id
- 3. Add @VCPlayBot as Channel admin with full perms
- 4. add helper to channel
- 5. Simply send commands in your group.
-
 ### Commands for Sudo Users ⚔️
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
